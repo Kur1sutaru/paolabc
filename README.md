@@ -1,5 +1,5 @@
 
- ## Hi,Welcome to my Github profile. 👋
+ ## Hi,Welcome to my GitHub profile. 👋
  
 <div align="center">
   <a href="https://github.com/paolabc">
@@ -19,7 +19,7 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/paola-carneiro-4a6256207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="Carneirinho#7097" target="_blank"><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=Discord&logoColor=white&color=black" target="_blank"></a> 
+  <a href="https://discord.gg/ZEKZ9s2y" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/paolabc/paolabc/blob/output/github-contribution-grid-snake.svg)
  
