@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolabc&layout=compact&theme=dracula)
 
 
- ![Snake animation](https://github.com/paolabc/paolabc/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/paolabc/paolabc/blob/main/.github/workflows/main.yml)
  
  
  
